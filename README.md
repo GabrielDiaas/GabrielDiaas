@@ -69,7 +69,7 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNISUL.
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
+    height="170" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=GabrielDiaas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -77,7 +77,7 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNISUL.
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="180" 
+      height="170" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDiaas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
