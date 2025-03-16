@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Gabriel Dias
+# 👨🏻‍💻 Gabriel Dias
 
 **`Desenvolvedor FullStack`**
 
