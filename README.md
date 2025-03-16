@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Gabriel Dias
 
-**`Desenvolvedor em treinamento FullStack`**
+**`Desenvolvedor FullStack em treinamento`**
 
 Me chamo Gabriel Dias, tenho 27 anos.
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNISUL. 
