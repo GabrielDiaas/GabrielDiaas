@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Gabriel Dias
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Back-end`**
 
 Me chamo Gabriel Dias, tenho 27 anos.
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNISUL. 
